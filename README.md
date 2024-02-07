@@ -1,6 +1,7 @@
 # gh-ost
 
 [![ci](https://github.com/github/gh-ost/actions/workflows/ci.yml/badge.svg)](https://github.com/github/gh-ost/actions/workflows/ci.yml) [![replica-tests](https://github.com/github/gh-ost/actions/workflows/replica-tests.yml/badge.svg)](https://github.com/github/gh-ost/actions/workflows/replica-tests.yml) [![downloads](https://img.shields.io/github/downloads/github/gh-ost/total.svg)](https://github.com/github/gh-ost/releases) [![release](https://img.shields.io/github/release/github/gh-ost.svg)](https://github.com/github/gh-ost/releases)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Favimore%2Fgh-ost.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Favimore%2Fgh-ost?ref=badge_shield)
 
 #### GitHub's online schema migration for MySQL <img src="doc/images/gh-ost-logo-light-160.png" align="right">
 
@@ -78,6 +79,9 @@ But then a rare genetic mutation happened, and the `c` transformed into `t`. And
 `gh-ost` is licensed under the [MIT license](https://github.com/github/gh-ost/blob/master/LICENSE)
 
 `gh-ost` uses 3rd party libraries, each with their own license. These are found [here](https://github.com/github/gh-ost/tree/master/vendor).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Favimore%2Fgh-ost.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Favimore%2Fgh-ost?ref=badge_large)
 
 ## Community
 
